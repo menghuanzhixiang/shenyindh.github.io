@@ -5,9 +5,9 @@
 
 Twitter:www.twitter.com/China_JL_666
 
-Telegram:https://t.me/c88868
+Telegram:t.me/c88868
 
-Facebook:https://www.facebook.com/profile.php?id=100036451336422
+Facebook:www.facebook.com/profile.php?id=100036451336422
 
 web 实验室---用来试验各种网络上流传的网站源码
 
