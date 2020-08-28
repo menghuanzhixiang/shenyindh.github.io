@@ -1,5 +1,4 @@
 # cjl0372.github.io
-个人主页:www.caojiale.top    //2020.8.20改版为个人免费外链网盘
 
 只是一个引导页
 
@@ -7,7 +6,7 @@
 
 联系方式:
 
-邮箱:c7777777@88.com
+邮箱:1@caojiale.top
 
 Twitter:www.twitter.com/China_JL_666
 
