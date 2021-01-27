@@ -4,7 +4,9 @@
 
 2020.8.7正式搭建--基于FlxPlayer页面二次开发
 
-首页：![image](https://cdn.jsdelivr.net/gh/cjl0372/cdn@master/cjl0372.github.io.png)
+首页：
+
+[![](https://cdn.jsdelivr.net/gh/cjl0372/cdn@master/cjl0372.github.io.png)](https://cjl0372.github.io/)
 
 ----
 ## 网站右下角动态看板娘代码
@@ -16,3 +18,5 @@
 ----
 ### 赞助
 ![image](https://cdn.jsdelivr.net/gh/cjl0372/cdn@master/wxzfb.png)
+
+[io](https://cjl0372.github.io)
