@@ -4,7 +4,6 @@
 
 2020.8.7正式搭建--基于FlxPlayer页面二次开发
 
-演示图片：
 首页：![image](https://pic.baixiongz.com/uploads/2021/01/27/621f897430d92.png)
 
 ----
