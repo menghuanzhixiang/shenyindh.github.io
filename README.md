@@ -20,4 +20,5 @@
 
 ### io
 [![](https://img.shields.io/badge/blog-@champyin-red.svg)](http://cjl0.cn/)
+[![](https://data.jsdelivr.com/v1/package/gh/cjl0372/cjl0372.github.io/badge)](https://www.jsdelivr.com/package/gh/cjl0372/cjl0372.github.io)
 
