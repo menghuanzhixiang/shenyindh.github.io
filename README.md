@@ -1,19 +1,17 @@
 # cjl0372.github.io
 
-只是一个引导页
+>只是一个引导页
 
 2020.8.7正式搭建--基于FlxPlayer页面二次开发
 
-联系方式:
+演示图片：
+首页：![image](https://pic.baixiongz.com/uploads/2021/01/27/621f897430d92.png)
 
-邮箱:1@caojiale.top
+----
+欢迎Star
 
-Twitter:www.twitter.com/China_JL_666
+如果觉得还不错可以支持一下呀~
 
-Telegram:https://t.me/c88868
-
-Facebook:www.facebook.com/profile.php?id=100036451336422
-
-Instagram:www.instagram.com/mahuateng588/
-
+![image](https://cdn.jsdelivr.net/gh/cjl0372/cdn@master/wx.jpg)
+![image](https://cdn.jsdelivr.net/gh/cjl0372/cdn@master/zfb.jpg)
 
