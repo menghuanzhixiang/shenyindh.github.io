@@ -7,7 +7,6 @@
 首页：
 
 [![](https://cdn.jsdelivr.net/gh/cjl0372/cdn@master/cjl0372.github.io.png)](https://cjl0372.github.io/)
-
 ----
 ## 网站右下角动态看板娘代码
 ```html
@@ -19,4 +18,6 @@
 ### 赞助
 ![image](https://cdn.jsdelivr.net/gh/cjl0372/cdn@master/wxzfb.png)
 
-[io](https://cjl0372.github.io)
+### io
+[![](https://img.shields.io/badge/blog-@champyin-red.svg)](http://cjl0.cn/)
+
