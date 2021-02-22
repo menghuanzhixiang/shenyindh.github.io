@@ -8,7 +8,7 @@
 
 [![](https://cdn.jsdelivr.net/gh/cjl0372/cdn@master/cjl0372.github.io.png)](https://cjl0372.github.io/)
 ----
-## 网站右下角动态看板娘代码
+## 网站左下角动态看板娘代码
 ```html
 <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css"/>
