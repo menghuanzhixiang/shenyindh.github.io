@@ -18,7 +18,10 @@
 ### 赞助
 ![image](https://cdn.jsdelivr.net/gh/cjl0372/cdn@master/wxzfb.png)
 
-### io
+### or
+PayPal:
+[![](https://cdn.jsdelivr.net/gh/cjl0372/cdn@master/qrcode_www.paypal.me.png)](https://www.paypal.me/cjl00)
+
 [![](https://img.shields.io/badge/blog-@champyin-red.svg)](http://cjl0.cn/)
 [![](https://data.jsdelivr.com/v1/package/gh/cjl0372/cjl0372.github.io/badge)](https://www.jsdelivr.com/package/gh/cjl0372/cjl0372.github.io)
 
