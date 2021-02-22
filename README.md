@@ -16,6 +16,8 @@
 ```
 ----
 ### 赞助
+>微信,支付宝
+
 ![image](https://cdn.jsdelivr.net/gh/cjl0372/cdn@master/wxzfb.png)
 
 ### or
