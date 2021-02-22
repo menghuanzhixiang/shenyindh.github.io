@@ -19,7 +19,8 @@
 ![image](https://cdn.jsdelivr.net/gh/cjl0372/cdn@master/wxzfb.png)
 
 ### or
-PayPal:
+>PayPal:
+
 [![](https://cdn.jsdelivr.net/gh/cjl0372/cdn@master/qrcode_www.paypal.me.png)](https://www.paypal.me/cjl00)
 
 [![](https://img.shields.io/badge/blog-@champyin-red.svg)](http://cjl0.cn/)
