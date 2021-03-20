@@ -6,7 +6,7 @@
 
 首页：
 
-[![](https://cdn.jsdelivr.net/gh/cjl0372/cdn@master/cjl0372.github.io.png)](https://cjl0372.github.io/)
+[![](https://cdn.jsdelivr.net/gh/cjl0372/cdn@master/cjl0372.github.io.png.png)](https://cjl0372.github.io/)
 ----
 ## 网站左下角动态看板娘代码
 ```html
