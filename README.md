@@ -1,4 +1,6 @@
-# cjl0372.github.io
+# cjl0372.github.io 
+[![](https://img.shields.io/badge/blog-@champyin-red.svg)](http://blog.cjl0.cn)
+[![](https://data.jsdelivr.com/v1/package/gh/cjl0372/cjl0372.github.io/badge)](https://www.jsdelivr.com/package/gh/cjl0372/cjl0372.github.io)
 
 >只是一个引导页
 
@@ -25,7 +27,4 @@
 <script src="https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget/autoload.js"></script>
 ```
 ----
-
-[![](https://img.shields.io/badge/blog-@champyin-red.svg)](http://blog.cjl0.cn)
-[![](https://data.jsdelivr.com/v1/package/gh/cjl0372/cjl0372.github.io/badge)](https://www.jsdelivr.com/package/gh/cjl0372/cjl0372.github.io)
 
