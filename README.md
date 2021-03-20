@@ -15,15 +15,6 @@
 <script src="https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget/autoload.js"></script>
 ```
 ----
-### 赞助
->微信,支付宝
-
-![image](https://cdn.jsdelivr.net/gh/cjl0372/cdn@master/wxzfb.png)
-
-### or
->PayPal:
-
-[![](https://cdn.jsdelivr.net/gh/cjl0372/cdn@master/qrcode_www.paypal.me.png)](https://www.paypal.me/cjl00)
 
 [![](https://img.shields.io/badge/blog-@champyin-red.svg)](http://cjl0.cn/)
 [![](https://data.jsdelivr.com/v1/package/gh/cjl0372/cjl0372.github.io/badge)](https://www.jsdelivr.com/package/gh/cjl0372/cjl0372.github.io)
