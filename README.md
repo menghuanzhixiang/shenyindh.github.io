@@ -8,7 +8,7 @@
 
 预览图：
 
-[![](https://cdn.jsdelivr.net/gh/cjl0372/cdn@master/cjl0372.github.io.png.png)](https://cjl0372.github.io/)
+[![](https://cdn.jsdelivr.net/gh/cjl0372/cdn@master/cjlhtml.png)](https://cjl0372.github.io/)
 ----
 
 ## 网站左下角播放器代码(v1版)
